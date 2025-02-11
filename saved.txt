@@ -1,0 +1,71 @@
+Demo 1 for Sponsors
+import React from "react";
+
+const Sponsors = () => {
+  return (
+    <section className="bg-gray-200 text-center py-4"> {/* Reduced padding from py-8 to py-4 */}
+      <h2 className="text-2xl font-semibold mb-4">Our Sponsors</h2>
+      <div className="flex justify-center space-x-6">
+        <img src="/sponsor1.png" alt="Sponsor 1" className="w-24 h-auto" />
+        <img src="/sponsor2.png" alt="Sponsor 2" className="w-24 h-auto" />
+        <img src="/sponsor3.png" alt="Sponsor 3" className="w-24 h-auto" />
+      </div>
+    </section>
+  );
+};
+
+export default Sponsors;
+
+
+Demo 2 for Sponsors
+import React from "react";
+
+const Sponsors = () => {
+  return (
+    <section className="p-8">
+      <h2 className="text-2xl font-semibold text-center mb-6">Sponsors</h2>
+      <div className="flex justify-center gap-6">
+        <img src="https://via.placeholder.com/150" alt="Sponsor 1" className="w-32" />
+        <img src="https://via.placeholder.com/150" alt="Sponsor 2" className="w-32" />
+      </div>
+    </section>
+  );
+};
+
+export default Sponsors;
+
+
+https://www.youtube.com/watch?v=EqV55KO6ujU
+
+<Route path="/fiery-phoenix" element={<FieryPhoenix />} />
+<Route path="/kinetic-kairos" element={<KineticKairos />} />
+<Route path="/verdant-mavericks" element={<VerdantMavericks />} />
+          
+
+
+
+          // {
+//   "short_name": "React App",
+//   "name": "Create React App Sample",
+//   "icons": [
+//     {
+//       "src": "favicon.ico",
+//       "sizes": "64x64 32x32 24x24 16x16",
+//       "type": "image/x-icon"
+//     },
+//     {
+//       "src": "logo192.png",
+//       "type": "image/png",
+//       "sizes": "192x192"
+//     },
+//     {
+//       "src": "logo512.png",
+//       "type": "image/png",
+//       "sizes": "512x512"
+//     }
+//   ],
+//   "start_url": ".",
+//   "display": "standalone",
+//   "theme_color": "#000000",
+//   "background_color": "#ffffff"
+// }

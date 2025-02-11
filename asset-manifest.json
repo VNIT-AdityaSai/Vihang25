@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vihang25/static/css/main.596f9d77.css",
+    "main.js": "/Vihang25/static/js/main.0f209d39.js",
+    "index.html": "/Vihang25/index.html",
+    "main.596f9d77.css.map": "/Vihang25/static/css/main.596f9d77.css.map",
+    "main.0f209d39.js.map": "/Vihang25/static/js/main.0f209d39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.596f9d77.css",
+    "static/js/main.0f209d39.js"
+  ]
+}
